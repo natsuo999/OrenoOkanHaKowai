@@ -1,0 +1,4 @@
+StageNo,GageTime,Difficult
+1,30,5
+2,50,4
+3,60,3

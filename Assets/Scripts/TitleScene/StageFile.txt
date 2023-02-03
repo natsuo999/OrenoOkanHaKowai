@@ -1,0 +1,4 @@
+StageLevel,ScoreGageValue
+1,0.05
+2,0.04
+3,0.03
